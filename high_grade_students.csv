@@ -1,0 +1,193 @@
+Marital status,Application mode,Application order,Course,Daytime/evening attendance	,Previous qualification,Previous qualification (grade),Nationality,Mother's qualification,Father's qualification,Mother's occupation,Father's occupation,Admission grade,Displaced,Educational special needs,Debtor,Tuition fees up to date,Gender,Scholarship holder,Age at enrollment,International,Curricular units 1st sem (credited),Curricular units 1st sem (enrolled),Curricular units 1st sem (evaluations),Curricular units 1st sem (approved),Curricular units 1st sem (grade),Curricular units 1st sem (without evaluations),Curricular units 2nd sem (credited),Curricular units 2nd sem (enrolled),Curricular units 2nd sem (evaluations),Curricular units 2nd sem (approved),Curricular units 2nd sem (grade),Curricular units 2nd sem (without evaluations),Unemployment rate,Inflation rate,GDP,Target
+Married,Online,2,9147,Daytime,1,133.0,Pakistani,3,Graduate,Engineer,7,120.4,1,0,0,1,Male,0,22,No,0,5,5,5,14.8,0,0,5,5,5,15.8,0,8.9,1.4,3.51,Graduate
+Married,Online,3,9130,Daytime,1,167.0,Pakistani,Graduate,Graduate,90,90,159.3,0,0,0,1,Male,0,19,No,0,5,7,5,14.714285714285714,0,0,5,5,5,15.8,0,7.6,2.6,0.32,Graduate
+Married,Hybrid,4,9500,Daytime,1,150.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,130.8,0,0,0,1,Female,1,22,No,0,7,7,7,14.842857142857142,0,0,8,9,8,15.055555555555555,0,16.2,0.3,-0.92,Graduate
+Married,Hybrid,6,9500,Daytime,1,132.0,Pakistani,Graduate,Graduate,8,Bussinessman,128.0,1,0,0,1,Male,0,19,No,0,7,7,7,13.467142857142855,0,0,8,9,8,15.011111111111113,0,12.4,0.5,1.79,Graduate
+Married,18,1,9500,Daytime,1,178.0,Pakistani,Graduate,Graduate,4,8,174.7,0,0,0,1,Male,0,18,No,0,7,8,7,17.125,0,0,8,8,8,17.5875,0,13.9,-0.3,0.79,Graduate
+Married,Online,2,9500,Daytime,1,134.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,125.8,1,0,0,1,Male,0,18,No,0,7,8,7,14.91875,0,0,8,8,8,15.355,0,15.5,2.8,-4.06,Graduate
+Married,43,1,9130,Daytime,1,140.0,Pakistani,Graduate,Undergraduate,Home wife,Lawyer,140.0,1,0,0,1,Male,1,20,No,0,6,8,6,15.625,0,0,6,8,6,15.857142857142858,0,13.9,-0.3,0.79,Graduate
+Divorced,7,1,9991,Evening,43,140.0,Pakistani,40,5,Lawyer,Lawyer,140.0,0,0,0,1,Male,0,33,No,2,6,7,6,15.333333333333334,0,0,5,5,5,15.8,0,11.1,0.6,2.02,Graduate
+Married,Online,1,9238,Daytime,1,152.0,Pakistani,Graduate,Graduate,4,5,144.7,0,0,0,1,Male,0,20,No,0,6,8,6,14.5,0,0,6,7,6,15.428571428571429,0,16.2,0.3,-0.92,Graduate
+Married,Hybrid,3,9500,Daytime,1,145.0,Pakistani,12,Graduate,4,10,139.8,1,0,0,1,Male,0,18,No,0,7,7,7,13.685714285714283,0,0,8,8,8,15.3875,0,13.9,-0.3,0.79,Graduate
+Married,Online,1,9500,Daytime,1,160.0,Pakistani,Graduate,Graduate,4,Bussinessman,154.4,0,0,0,1,Male,1,18,No,0,7,9,7,15.116666666666667,0,0,8,9,8,16.168888888888887,0,15.5,2.8,-4.06,Graduate
+Married,51,1,9238,Daytime,1,160.0,Pakistani,3,Graduate,Engineer,Doctor,116.1,0,0,1,1,Male,0,26,No,0,6,6,6,14.833333333333334,0,0,6,7,6,15.142857142857142,0,11.1,0.6,2.02,Graduate
+Married,Online,1,9147,Daytime,1,153.0,Pakistani,Graduate,Graduate,4,Lawyer,146.7,0,0,0,1,Male,0,18,No,0,5,5,5,16.2,0,0,5,5,5,16.4,0,11.1,0.6,2.02,Graduate
+Married,Hybrid,1,9085,Daytime,1,133.0,Pakistani,Graduate,Graduate,4,5,127.1,1,0,0,1,Male,0,18,No,0,6,7,6,15.0,0,0,6,7,6,16.428571428571427,0,11.1,0.6,2.02,Graduate
+Married,Online,1,9085,Daytime,1,133.1,Pakistani,Graduate,Graduate,Bussinessman,5,106.0,1,0,0,1,Male,1,21,No,0,6,13,6,16.153846153846153,0,0,6,10,6,15.75,0,15.5,2.8,-4.06,Graduate
+Married,Online,1,9500,Daytime,1,152.0,Pakistani,Graduate,Graduate,4,Navy,141.0,1,0,0,1,Male,1,18,No,0,7,7,7,15.135714285714286,0,0,8,8,8,15.287499999999998,0,12.4,0.5,1.79,Graduate
+Married,7,1,9991,Evening,40,140.0,Pakistani,Graduate,Graduate,6,6,140.0,0,0,0,1,Male,0,26,No,3,5,5,5,14.0,0,1,5,5,5,15.6,0,12.4,0.5,1.79,Graduate
+Married,Online,1,9085,Daytime,1,131.0,Pakistani,Graduate,Graduate,90,90,137.0,0,0,0,1,Male,0,18,No,0,5,5,5,14.0,0,0,5,6,5,15.4,0,7.6,2.6,0.32,Graduate
+Married,43,1,9556,Daytime,1,147.0,Pakistani,3,4,Lawyer,Lawyer,100.0,0,0,0,1,Male,0,18,No,0,2,2,0,0.0,0,0,4,4,1,16.0,0,10.8,1.4,1.74,Enrolled
+Married,Online,1,9500,Daytime,1,128.0,Pakistani,3,Graduate,Engineer,Doctor,127.8,0,0,0,1,Male,1,19,No,0,7,8,7,14.4125,0,0,8,8,8,16.05,0,13.9,-0.3,0.79,Graduate
+Married,In-Person,1,9500,Daytime,1,127.0,Pakistani,Graduate,Graduate,Docter,5,160.0,0,0,0,1,Female,0,28,No,0,7,7,7,14.528571428571428,0,0,8,11,8,15.018181818181818,0,16.2,0.3,-0.92,Graduate
+Married,Online,1,9500,Daytime,1,154.0,Pakistani,Graduate,Graduate,Docter,Lawyer,144.9,0,0,0,1,Female,1,18,No,0,7,7,7,15.957142857142856,0,0,8,9,8,15.188888888888888,0,16.2,0.3,-0.92,Graduate
+Married,Online,1,9147,Daytime,1,143.0,Pakistani,Graduate,Graduate,Lawyer,Lawyer,133.9,0,0,0,1,Male,1,18,No,0,5,5,5,15.0,0,0,5,5,5,15.2,0,12.7,3.7,-1.7,Graduate
+Married,7,1,9500,Daytime,40,170.0,Pakistani,Graduate,Graduate,Home wife,Navy,170.0,0,0,0,1,Male,0,24,No,4,7,7,7,16.885714285714283,0,3,8,9,8,15.744444444444444,0,16.2,0.3,-0.92,Graduate
+Married,Online,1,9500,Daytime,1,143.0,Pakistani,Graduate,Graduate,Lawyer,8,128.0,0,0,0,1,Male,1,18,No,0,7,9,7,13.055555555555555,0,0,8,8,8,15.8125,0,13.9,-0.3,0.79,Graduate
+Married,Online,1,9500,Daytime,1,136.0,Pakistani,Graduate,Graduate,Docter,7,136.4,0,0,0,1,Male,1,19,No,0,7,8,7,12.8375,0,0,8,8,8,15.5,0,13.9,-0.3,0.79,Graduate
+Married,Hybrid,1,9238,Daytime,1,151.0,Pakistani,Graduate,Graduate,Docter,0,144.4,1,0,0,1,Male,0,18,No,0,6,8,6,15.375,0,0,6,7,6,16.428571428571427,0,16.2,0.3,-0.92,Graduate
+Married,44,1,9003,Daytime,39,180.0,Pakistani,Graduate,Undergraduate,4,Lawyer,180.0,0,0,0,1,Male,0,21,No,0,6,6,6,15.833333333333334,0,0,6,8,6,15.5,0,15.5,2.8,-4.06,Graduate
+Married,Online,1,9085,Daytime,1,144.0,13,3,Undergraduate,6,6,137.6,1,0,0,1,Male,1,19,Yes,0,5,6,5,15.4,0,0,5,5,5,16.0,0,10.8,1.4,1.74,Graduate
+Divorced,In-Person,1,9130,Daytime,19,133.1,Pakistani,Undergraduate,Graduate,Engineer,Bussinessman,157.0,1,0,0,1,Female,0,44,No,1,5,13,4,14.0,3,1,5,9,4,15.5,2,10.8,1.4,1.74,Graduate
+Married,43,1,9119,Daytime,1,140.0,Pakistani,Graduate,Graduate,Docter,7,146.5,0,0,0,1,Female,0,39,No,0,5,10,3,17.333333333333332,0,0,5,11,1,17.0,0,13.9,-0.3,0.79,Dropout
+Divorced,In-Person,1,9254,Daytime,1,120.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,148.3,0,0,0,1,Female,0,47,No,6,11,11,11,14.727272727272728,0,6,9,9,9,15.77777777777778,0,10.8,1.4,1.74,Graduate
+Divorced,42,1,9991,Evening,6,123.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,123.0,0,0,0,1,Female,0,37,No,0,5,10,5,15.8,0,0,5,5,5,17.6,0,9.4,-0.8,-3.12,Enrolled
+4,7,1,9500,Daytime,3,140.0,Pakistani,Graduate,Graduate,Home wife,7,140.0,0,0,0,1,Female,0,51,No,4,7,7,7,15.2,0,6,8,8,8,16.575,0,13.9,-0.3,0.79,Graduate
+Married,Online,1,9085,Daytime,1,134.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,133.0,1,0,0,1,Male,1,20,No,0,6,8,6,15.142857142857142,0,0,6,8,6,15.142857142857142,0,11.1,0.6,2.02,Graduate
+Married,43,1,9085,Daytime,1,162.0,Pakistani,Undergraduate,Graduate,4,Navy,162.0,0,0,0,1,Male,0,19,No,0,6,7,6,15.0,0,0,6,8,6,15.625,0,12.4,0.5,1.79,Graduate
+Married,Hybrid,1,9773,Daytime,1,150.0,Pakistani,Graduate,Graduate,Bussinessman,7,137.8,1,0,0,1,Male,1,18,No,0,6,6,6,15.0,0,0,6,6,6,15.5,0,8.9,1.4,3.51,Graduate
+Married,Online,3,9070,Daytime,1,132.0,Pakistani,Graduate,Undergraduate,Home wife,7,126.1,1,0,0,1,Male,1,18,No,0,6,6,6,15.833333333333334,0,0,6,6,6,15.333333333333334,0,11.1,0.6,2.02,Graduate
+Married,Online,4,9500,Daytime,1,128.0,Pakistani,Graduate,Graduate,4,10,125.2,1,0,0,1,Female,1,18,No,0,7,7,7,14.682857142857143,0,0,8,9,8,15.055555555555555,0,12.4,0.5,1.79,Graduate
+Married,Online,1,9500,Daytime,1,136.0,Pakistani,Graduate,Graduate,4,7,136.0,0,0,0,1,Male,1,19,No,0,7,7,7,14.014285714285714,0,0,8,8,8,15.35,0,13.9,-0.3,0.79,Graduate
+Divorced,7,1,9670,Daytime,3,110.0,Pakistani,Graduate,Graduate,Bussinessman,7,110.0,0,0,0,1,Male,0,32,No,4,11,15,8,13.6,0,2,8,10,8,15.11111111111111,0,13.9,-0.3,0.79,Graduate
+Married,16,1,9556,Daytime,1,137.0,Pakistani,Graduate,Graduate,Home wife,7,122.7,1,0,0,1,Male,1,18,No,0,7,7,7,15.285714285714286,0,0,8,8,8,16.075,0,12.4,0.5,1.79,Graduate
+Divorced,43,1,9853,Daytime,1,110.0,Pakistani,Graduate,Graduate,Bussinessman,7,100.0,0,0,0,1,Female,0,40,No,0,2,4,1,16.0,0,0,4,5,4,15.5,0,13.9,-0.3,0.79,Graduate
+Married,Online,1,9147,Daytime,1,128.0,Pakistani,Graduate,Graduate,Engineer,10,116.5,0,0,0,1,Female,0,19,No,0,5,8,2,10.0,0,0,5,8,1,16.0,0,7.6,2.6,0.32,Dropout
+Married,7,1,9003,Daytime,4,150.0,Pakistani,Graduate,Graduate,4,6,150.0,0,0,0,1,Female,0,28,No,0,6,14,6,14.875,0,0,6,12,6,15.8,0,16.2,0.3,-0.92,Graduate
+Married,Hybrid,1,9500,Daytime,1,130.0,Pakistani,Graduate,Undergraduate,Home wife,Lawyer,128.6,1,0,0,1,Male,0,18,No,0,7,7,7,14.728571428571428,0,0,8,11,8,16.327272727272728,0,16.2,0.3,-0.92,Graduate
+Married,Hybrid,2,9238,Daytime,1,136.0,Pakistani,Graduate,Undergraduate,Lawyer,Navy,126.6,1,0,0,1,Male,0,18,No,0,6,6,6,16.5,0,0,6,7,6,17.428571428571427,0,11.1,0.6,2.02,Dropout
+Married,Hybrid,6,9500,Daytime,1,139.0,Pakistani,Graduate,Graduate,Home wife,6,133.5,1,0,0,1,Male,1,18,No,0,8,8,7,15.228571428571428,0,0,8,8,7,15.228571428571428,0,12.7,3.7,-1.7,Graduate
+Married,Hybrid,1,9085,Daytime,1,129.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,118.2,1,0,0,1,Male,1,18,No,0,5,7,4,13.25,0,0,5,8,5,15.571428571428571,0,10.8,1.4,1.74,Graduate
+Married,Online,1,9500,Daytime,1,143.0,Pakistani,Graduate,Graduate,Docter,5,133.9,0,0,0,1,Male,0,18,No,0,7,7,7,15.014285714285714,0,0,8,8,8,16.0875,0,12.4,0.5,1.79,Graduate
+Married,Hybrid,2,9500,Daytime,1,134.0,Pakistani,Graduate,Graduate,4,7,133.5,1,0,0,1,Male,0,19,No,0,7,8,7,14.05,0,0,8,8,8,15.1,0,13.9,-0.3,0.79,Graduate
+Married,Hybrid,3,9500,Daytime,1,138.0,Pakistani,3,Undergraduate,4,5,130.0,1,0,0,1,Male,0,18,No,0,7,8,7,14.85,0,0,8,8,8,15.2,0,13.9,-0.3,0.79,Dropout
+Married,Online,2,9500,Daytime,1,142.0,Pakistani,Graduate,Graduate,Home wife,7,132.7,1,0,0,1,Male,1,19,No,0,7,8,7,14.7875,0,0,8,8,8,15.8625,0,13.9,-0.3,0.79,Graduate
+Married,In-Person,1,9238,Daytime,1,170.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,140.0,1,0,0,1,Male,0,24,No,0,6,9,4,15.75,0,0,6,10,5,16.4,0,9.4,-0.8,-3.12,Enrolled
+Married,In-Person,1,9500,Daytime,3,133.8,Pakistani,3,Graduate,Engineer,10,184.0,0,0,0,1,Male,0,28,No,0,7,9,7,17.005555555555556,0,1,8,9,8,16.582222222222224,0,15.5,2.8,-4.06,Graduate
+Married,Online,1,9500,Daytime,1,145.0,Pakistani,Graduate,Graduate,Home wife,5,145.0,0,0,0,1,Male,1,18,No,0,7,7,7,14.071428571428571,0,0,8,8,8,15.1625,0,13.9,-0.3,0.79,Graduate
+Married,Hybrid,4,9500,Daytime,1,137.0,Pakistani,Graduate,Graduate,4,Lawyer,121.3,1,0,0,1,Female,1,18,No,0,8,8,7,15.07,0,0,8,8,7,15.07,0,10.8,1.4,1.74,Graduate
+Divorced,In-Person,1,9003,Daytime,1,130.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,144.0,0,0,0,1,Male,0,29,No,13,18,20,18,15.444444444444445,0,11,13,13,13,15.307692307692308,0,15.5,2.8,-4.06,Graduate
+Married,Online,1,9238,Daytime,1,147.0,Pakistani,Graduate,Graduate,4,Navy,137.2,0,0,0,0,Male,0,18,No,0,6,6,6,14.5,0,0,6,6,6,15.166666666666666,0,10.8,1.4,1.74,Graduate
+Married,7,1,9085,Daytime,40,140.0,Pakistani,Graduate,Graduate,Docter,5,140.0,1,0,0,1,Male,0,23,No,0,6,7,6,15.571428571428571,0,0,6,8,6,16.375,0,12.4,0.5,1.79,Graduate
+Married,Online,1,9500,Daytime,1,176.0,Pakistani,3,Graduate,Lawyer,7,169.7,0,0,0,1,Male,1,18,No,0,7,7,7,16.9,0,0,8,9,8,16.37777777777778,0,16.2,0.3,-0.92,Graduate
+Married,Online,1,9500,Daytime,1,132.0,Pakistani,Graduate,Graduate,Home wife,5,123.4,0,0,0,1,Male,1,18,No,0,7,7,7,14.604285714285712,0,0,8,9,8,15.68333333333333,0,11.1,0.6,2.02,Graduate
+Married,Hybrid,1,9238,Daytime,1,153.0,Pakistani,Graduate,Graduate,Bussinessman,7,159.7,1,0,0,1,Male,1,18,No,0,6,7,6,15.142857142857142,0,0,6,6,6,15.833333333333334,0,12.7,3.7,-1.7,Graduate
+Married,Online,1,9254,Daytime,1,158.0,Pakistani,Graduate,39,4,8,153.5,1,0,0,1,Male,0,20,No,0,6,7,6,14.833333333333334,0,0,6,6,6,16.0,0,11.1,0.6,2.02,Graduate
+Married,Online,1,9085,Daytime,1,143.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,133.4,1,0,0,1,Male,0,19,No,0,6,7,6,16.0,0,0,6,8,6,15.875,0,12.4,0.5,1.79,Graduate
+Divorced,In-Person,1,9853,Daytime,1,130.0,Pakistani,Graduate,Graduate,Bussinessman,Lawyer,140.0,0,0,1,1,Male,1,34,No,0,6,7,6,16.142857142857142,0,0,6,10,6,16.2,0,9.4,-0.8,-3.12,Graduate
+Married,Online,1,9119,Daytime,1,168.0,Pakistani,Graduate,Graduate,4,Navy,171.2,0,0,0,1,Female,1,18,No,0,5,6,5,17.333333333333332,0,0,5,8,5,18.571428571428573,0,12.4,0.5,1.79,Graduate
+Married,Hybrid,5,9119,Daytime,1,124.0,11,4,Undergraduate,Engineer,Bussinessman,119.5,1,0,0,1,Female,0,20,Yes,0,5,5,5,14.8,0,0,5,5,5,17.6,0,8.9,1.4,3.51,Graduate
+Married,Online,3,9500,Daytime,1,141.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,126.0,1,0,0,1,Male,0,18,No,0,8,8,7,15.657142857142857,0,0,8,8,7,15.657142857142857,0,12.7,3.7,-1.7,Graduate
+Married,Online,1,9500,Daytime,1,129.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,120.0,0,0,0,1,Female,0,20,No,0,8,8,7,15.028571428571428,0,0,8,8,7,15.028571428571428,0,12.7,3.7,-1.7,Graduate
+Married,In-Person,1,9070,Daytime,1,130.0,Pakistani,Graduate,Graduate,Docter,Lawyer,112.0,1,0,0,1,Female,1,24,No,0,6,6,6,15.0,0,0,6,6,2,16.0,0,15.5,2.8,-4.06,Graduate
+Married,Hybrid,5,9500,Daytime,1,143.0,Pakistani,Graduate,Graduate,Home wife,7,130.6,1,0,0,1,Male,1,18,No,0,7,8,7,13.15,0,0,8,9,8,15.06875,0,13.9,-0.3,0.79,Graduate
+Married,16,3,9070,Daytime,1,152.0,Pakistani,Graduate,Graduate,4,8,156.9,1,0,0,1,Male,0,19,No,0,6,6,6,15.333333333333334,0,0,6,9,6,15.833333333333334,0,12.7,3.7,-1.7,Graduate
+Divorced,In-Person,1,9991,Evening,1,133.1,Pakistani,Graduate,Graduate,Home wife,Bussinessman,168.0,0,0,0,1,Female,0,29,No,0,5,5,5,15.2,0,0,5,5,5,15.2,0,11.1,0.6,2.02,Graduate
+Married,7,1,9119,Daytime,4,180.0,Pakistani,4,Undergraduate,Engineer,7,180.0,0,0,1,1,Female,0,30,No,0,5,6,4,14.5,0,0,5,10,3,16.2,0,13.9,-0.3,0.79,Enrolled
+Married,Hybrid,5,9500,Daytime,1,144.0,Pakistani,Graduate,Graduate,Home wife,5,130.7,1,0,0,1,Male,1,18,No,0,7,8,7,14.85,0,0,8,9,8,15.61111111111111,0,13.9,-0.3,0.79,Graduate
+Married,Online,1,9773,Daytime,1,164.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,161.2,0,0,0,1,Female,1,18,No,0,6,7,6,15.571428571428571,0,0,6,7,6,16.142857142857142,0,13.9,-0.3,0.79,Graduate
+Married,Online,3,9556,Daytime,1,122.0,Pakistani,Graduate,Graduate,Lawyer,10,113.3,1,0,0,1,Male,1,20,No,0,7,7,7,13.0,0,0,8,8,8,15.0625,0,12.4,0.5,1.79,Graduate
+Married,Online,2,9085,Daytime,1,157.0,Pakistani,3,Undergraduate,Docter,Lawyer,153.9,1,0,0,1,Male,0,18,No,0,6,7,6,16.571428571428573,0,0,6,6,6,15.666666666666666,0,13.9,-0.3,0.79,Graduate
+Married,Online,1,9500,Daytime,1,150.0,Pakistani,Graduate,Graduate,4,Navy,137.8,0,0,0,1,Male,0,18,No,0,7,10,7,15.145,0,0,8,8,8,15.7425,0,15.5,2.8,-4.06,Graduate
+Married,Hybrid,1,9500,Daytime,1,148.0,Pakistani,Graduate,Graduate,Home wife,7,143.3,0,0,0,1,Male,1,18,No,0,7,7,7,13.44285714285714,0,0,8,8,8,15.075,0,13.9,-0.3,0.79,Graduate
+Married,Online,1,9500,Daytime,1,156.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,156.3,0,0,0,1,Female,1,18,No,0,8,8,8,15.63375,0,0,8,8,8,15.63375,0,9.4,-0.8,-3.12,Graduate
+Married,51,1,9085,Daytime,1,127.0,Pakistani,3,Undergraduate,Engineer,8,138.8,1,0,0,1,Male,0,22,No,4,12,19,11,14.153846153846152,0,5,12,20,12,15.428571428571429,0,8.9,1.4,3.51,Graduate
+Married,In-Person,1,9773,Daytime,1,130.0,Pakistani,Graduate,Graduate,Teacher,Lawyer,161.5,0,0,0,1,Female,0,36,No,0,6,7,6,15.285714285714286,0,0,6,6,6,16.5,0,10.8,1.4,1.74,Graduate
+Married,In-Person,1,9500,Daytime,1,130.0,Pakistani,Graduate,Graduate,Lawyer,7,143.8,0,0,0,1,Female,0,27,No,0,8,8,7,15.57,0,0,8,8,7,15.57,0,10.8,1.4,1.74,Dropout
+Married,7,2,9500,Daytime,3,140.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,138.0,0,0,0,1,Female,0,28,No,0,7,7,7,14.114285714285714,0,0,8,9,8,15.91111111111111,0,16.2,0.3,-0.92,Dropout
+Married,In-Person,1,9070,Daytime,1,130.0,Pakistani,Graduate,Graduate,4,Navy,110.0,1,0,0,1,Male,0,24,No,0,6,6,6,15.166666666666666,0,0,6,6,2,15.5,0,15.5,2.8,-4.06,Graduate
+Married,51,1,9500,Daytime,1,170.0,Pakistani,Graduate,Graduate,4,10,125.0,0,0,0,1,Female,0,20,No,0,7,7,7,15.66,0,7,10,11,9,15.011111111111113,0,11.1,0.6,2.02,Graduate
+Married,Online,6,9500,Daytime,1,117.0,Pakistani,4,Undergraduate,Docter,Bussinessman,119.8,1,0,0,1,Male,0,18,No,0,7,7,7,13.877142857142855,0,0,8,8,8,15.6625,0,12.4,0.5,1.79,Graduate
+Married,Online,2,9556,Daytime,1,125.0,Pakistani,Graduate,Graduate,Home wife,Lawyer,116.3,1,0,0,1,Male,0,18,No,0,7,8,7,13.428571428571429,0,0,8,8,8,15.3125,0,16.2,0.3,-0.92,Graduate
+Married,Hybrid,3,9500,Daytime,1,133.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,128.5,1,0,0,1,Male,1,18,No,0,7,7,7,14.868571428571428,0,0,8,9,8,15.11111111111111,0,11.1,0.6,2.02,Graduate
+Married,Online,4,9670,Daytime,1,133.0,Pakistani,Graduate,Undergraduate,4,7,121.1,1,0,0,1,Male,0,18,No,0,6,7,6,13.666666666666666,0,0,6,9,5,15.4,0,13.9,-0.3,0.79,Graduate
+Married,Hybrid,4,9500,Daytime,1,138.0,Pakistani,3,Graduate,Engineer,5,134.5,1,0,0,1,Male,0,18,No,0,7,7,7,13.457142857142856,0,0,8,8,8,15.125,0,13.9,-0.3,0.79,Graduate
+Married,Hybrid,1,9130,Daytime,1,157.0,Pakistani,3,Undergraduate,Lawyer,6,150.9,1,0,0,1,Male,0,18,No,0,6,8,6,15.0,0,0,6,8,5,15.166666666666666,0,13.9,-0.3,0.79,Dropout
+Married,Online,1,9500,Daytime,1,156.0,Pakistani,5,4,Engineer,Doctor,140.8,0,0,0,1,Male,0,18,No,0,8,8,7,15.7,0,0,8,8,7,15.7,0,12.7,3.7,-1.7,Graduate
+Married,Online,1,9500,Daytime,1,151.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,138.0,1,0,0,1,Male,0,18,No,0,7,7,6,15.2,0,0,7,7,6,15.2,0,7.6,2.6,0.32,Graduate
+Married,Hybrid,1,9853,Daytime,1,135.0,Pakistani,3,Undergraduate,Engineer,Lawyer,132.9,1,0,0,0,Male,0,29,No,0,6,9,6,16.333333333333332,0,0,6,8,5,15.6,0,12.7,3.7,-1.7,Dropout
+Married,44,3,9085,Daytime,39,150.0,Pakistani,Graduate,Graduate,4,Doctor,150.0,1,0,0,1,Male,0,19,No,0,5,10,1,13.0,1,0,5,8,3,15.333333333333334,0,12.7,3.7,-1.7,Enrolled
+Married,Online,2,9556,Daytime,1,136.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,129.5,1,0,0,1,Male,0,18,No,0,7,9,7,15.155555555555557,0,0,8,8,8,16.8,0,12.7,3.7,-1.7,Graduate
+Married,Online,1,9070,Daytime,1,143.0,Pakistani,Graduate,Graduate,151,193,134.3,1,1,0,1,Male,0,19,No,0,6,6,6,14.666666666666666,0,0,6,7,6,15.142857142857142,0,8.9,1.4,3.51,Graduate
+Married,Online,1,9500,Daytime,1,148.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,138.7,0,0,0,1,Male,1,19,No,0,7,10,7,15.114999999999998,0,0,8,10,8,15.092,0,15.5,2.8,-4.06,Graduate
+Married,Online,2,9773,Daytime,1,159.0,Pakistani,Graduate,Graduate,Lawyer,Lawyer,151.0,1,0,0,1,Male,0,18,No,0,6,6,6,14.833333333333334,0,0,6,6,6,15.333333333333334,0,12.7,3.7,-1.7,Graduate
+Married,Hybrid,1,9670,Daytime,1,145.0,Pakistani,3,Undergraduate,Engineer,Doctor,129.3,1,0,0,1,Male,0,20,No,0,6,7,6,15.571428571428571,0,0,6,6,6,17.166666666666668,0,16.2,0.3,-0.92,Graduate
+Married,In-Person,1,9003,Daytime,1,130.0,Pakistani,3,Graduate,Engineer,Navy,154.9,0,0,1,0,Female,0,35,No,0,6,8,5,16.166666666666668,0,0,6,10,4,16.0,0,8.9,1.4,3.51,Dropout
+Married,44,1,9003,Daytime,39,170.0,Pakistani,Graduate,Graduate,Home wife,7,170.0,1,0,1,1,Female,0,21,No,0,6,7,6,15.285714285714286,0,0,6,6,6,15.166666666666666,0,12.4,0.5,1.79,Graduate
+Married,Online,1,9130,Daytime,1,152.0,Pakistani,Graduate,Graduate,Home wife,8,135.6,1,0,0,1,Female,0,18,No,0,5,5,5,15.4,0,0,5,5,5,15.6,0,12.7,3.7,-1.7,Dropout
+Married,In-Person,1,9119,Daytime,19,133.1,Pakistani,Graduate,Graduate,4,Lawyer,134.4,0,0,1,0,Female,0,31,No,0,5,9,2,13.333333333333334,0,0,5,9,2,16.0,4,16.2,0.3,-0.92,Dropout
+Married,43,1,9070,Daytime,1,160.0,Pakistani,Graduate,Undergraduate,4,Lawyer,100.0,0,0,0,1,Female,0,38,No,1,6,9,5,16.0,1,0,6,11,4,16.5,0,13.9,-0.3,0.79,Enrolled
+Married,18,1,9119,Daytime,1,108.0,Pakistani,Graduate,Graduate,4,Lawyer,105.6,1,0,0,1,Female,0,20,No,0,5,7,5,12.166666666666666,0,0,5,7,5,15.285714285714286,0,12.4,0.5,1.79,Graduate
+Married,7,1,9119,Daytime,40,130.0,Pakistani,Graduate,Graduate,4,Navy,130.0,0,0,0,1,Female,0,27,No,4,6,6,6,13.166666666666666,0,2,5,7,5,15.142857142857142,0,11.1,0.6,2.02,Dropout
+Married,Online,1,9500,Daytime,1,130.0,Pakistani,Graduate,Graduate,Docter,10,117.8,1,0,0,1,Female,0,19,No,0,8,8,7,15.885714285714286,0,0,8,8,7,15.885714285714286,0,10.8,1.4,1.74,Graduate
+Married,Online,1,9991,Evening,1,172.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,149.3,0,0,0,1,Female,1,24,No,0,5,5,5,16.0,0,0,5,5,5,16.0,0,8.9,1.4,3.51,Graduate
+Divorced,In-Person,1,9003,Daytime,3,110.0,Pakistani,3,Graduate,4,6,150.0,0,0,0,1,Female,0,32,No,0,6,8,6,18.875,0,6,12,14,12,17.692307692307693,0,16.2,0.3,-0.92,Graduate
+Married,7,1,9991,Evening,40,150.0,Pakistani,Graduate,Graduate,6,6,150.0,1,0,0,1,Female,0,44,No,3,7,9,7,13.5,0,0,5,6,5,16.2,0,8.9,1.4,3.51,Dropout
+Married,44,1,9003,Daytime,39,170.0,Pakistani,Graduate,Graduate,Docter,5,170.0,1,0,0,1,Female,0,20,No,0,6,8,6,14.5,0,0,6,10,6,15.3,0,16.2,0.3,-0.92,Graduate
+Married,Online,1,9119,Daytime,1,146.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,148.5,1,0,0,1,Female,0,18,No,0,5,7,4,10.0,0,0,5,8,1,16.0,0,10.8,1.4,1.74,Enrolled
+Married,43,1,9130,Daytime,1,100.0,41,3,4,Lawyer,Lawyer,100.0,0,0,0,1,Male,0,19,Yes,0,5,10,5,14.857142857142858,2,0,5,7,5,15.142857142857142,0,9.4,-0.8,-3.12,Enrolled
+Married,Online,1,9670,Daytime,1,130.0,Pakistani,Graduate,Graduate,Bussinessman,7,121.6,0,0,0,1,Male,0,19,No,0,6,7,6,14.714285714285714,0,0,6,6,6,15.833333333333334,0,12.4,0.5,1.79,Graduate
+Married,Online,1,9500,Daytime,1,143.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,138.8,1,0,0,1,Male,0,31,No,0,7,9,7,15.46875,0,0,8,8,8,16.3875,0,11.1,0.6,2.02,Graduate
+Married,Online,1,9147,Daytime,1,160.0,Pakistani,Graduate,Graduate,Home wife,5,159.3,0,0,0,1,Male,0,18,No,0,5,5,5,14.4,0,0,5,5,5,15.4,0,7.6,2.6,0.32,Graduate
+Married,Online,1,9130,Daytime,1,134.0,41,Graduate,Graduate,Docter,5,125.6,1,0,0,1,Male,0,20,Yes,0,5,6,5,16.166666666666668,0,0,5,6,5,15.833333333333334,0,12.7,3.7,-1.7,Graduate
+Married,43,1,9991,Evening,1,130.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,124.0,0,0,0,1,Female,0,31,No,1,5,6,5,13.833333333333334,0,0,5,7,5,15.4,0,9.4,-0.8,-3.12,Graduate
+Married,In-Person,1,9991,Evening,1,150.0,Pakistani,Graduate,Graduate,175,103,127.0,0,0,0,1,Female,0,34,No,0,5,5,5,15.8,0,0,5,5,5,16.8,0,8.9,1.4,3.51,Graduate
+Married,Online,1,9003,Daytime,1,140.0,Pakistani,Graduate,Graduate,Home wife,Navy,138.3,0,0,0,1,Female,0,18,No,0,6,7,6,16.0,0,0,6,6,6,15.166666666666666,0,12.4,0.5,1.79,Graduate
+Married,Hybrid,1,9254,Daytime,1,116.0,Pakistani,Graduate,Graduate,Home wife,6,109.7,1,0,0,1,Male,0,22,No,0,6,7,5,14.0,0,0,6,6,6,15.666666666666666,0,11.1,0.6,2.02,Graduate
+Married,In-Person,1,9085,Daytime,1,110.0,Pakistani,Graduate,Graduate,Docter,5,160.0,1,0,1,1,Male,0,30,No,0,6,7,6,16.428571428571427,0,0,6,7,6,16.666666666666668,0,13.9,-0.3,0.79,Dropout
+Married,Online,1,9500,Daytime,1,125.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,126.0,1,0,1,1,Male,0,20,No,0,7,7,6,15.4,0,0,7,7,6,15.4,0,7.6,2.6,0.32,Graduate
+Married,Hybrid,4,9500,Daytime,1,137.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,128.4,1,0,0,1,Male,1,19,No,0,7,7,7,13.385714285714286,0,0,8,8,8,15.925,0,13.9,-0.3,0.79,Graduate
+Married,Online,4,9500,Daytime,1,142.0,Pakistani,Graduate,Graduate,Home wife,5,127.3,1,0,0,1,Male,0,18,No,0,8,8,7,15.075714285714286,0,0,8,8,7,15.075714285714286,0,10.8,1.4,1.74,Graduate
+Married,Online,1,9254,Daytime,1,145.0,Pakistani,3,Graduate,Lawyer,8,134.9,1,0,0,1,Male,0,18,No,0,6,6,6,15.5,0,0,6,6,6,16.0,0,12.4,0.5,1.79,Graduate
+Married,Online,1,9773,Daytime,1,142.0,Pakistani,Graduate,Graduate,4,7,141.3,0,0,0,1,Male,1,19,No,0,6,7,6,14.714285714285714,0,0,6,6,6,15.166666666666666,0,13.9,-0.3,0.79,Graduate
+Married,Online,3,9085,Daytime,1,147.0,Pakistani,Graduate,Graduate,Home wife,Doctor,135.6,1,0,0,1,Male,0,20,No,0,6,7,6,16.714285714285715,0,0,6,6,6,15.333333333333334,0,13.9,-0.3,0.79,Graduate
+Married,Online,2,9085,Daytime,1,148.0,Pakistani,Graduate,Graduate,4,Bussinessman,134.7,1,0,0,1,Male,0,18,No,0,6,6,6,17.0,0,0,6,6,6,15.5,0,8.9,1.4,3.51,Graduate
+4,In-Person,1,9147,Daytime,1,140.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,142.8,0,0,0,1,Male,0,43,No,0,5,5,5,16.4,0,0,5,5,5,16.6,0,7.6,2.6,0.32,Graduate
+Married,7,1,9003,Daytime,3,120.0,Pakistani,Graduate,Graduate,6,6,120.0,0,0,0,1,Male,0,54,No,9,13,13,13,14.307692307692308,0,5,12,15,12,15.23076923076923,0,15.5,2.8,-4.06,Graduate
+Married,43,1,9500,Daytime,1,157.0,Pakistani,Graduate,Undergraduate,Docter,Lawyer,141.4,0,0,0,1,Male,0,21,No,3,7,8,7,13.3875,0,2,8,8,8,15.9,0,13.9,-0.3,0.79,Graduate
+Married,16,1,9085,Daytime,1,138.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,123.0,1,0,0,1,Male,1,20,No,0,6,7,6,15.857142857142858,0,0,6,6,6,16.0,0,13.9,-0.3,0.79,Graduate
+5,In-Person,1,9500,Daytime,3,140.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,160.0,0,0,0,1,Male,0,27,No,0,8,8,7,15.94285714285714,0,0,8,8,7,15.94285714285714,0,12.7,3.7,-1.7,Graduate
+Divorced,In-Person,1,9085,Daytime,1,120.0,Pakistani,Graduate,Graduate,Teacher,Navy,130.0,0,0,0,1,Male,0,29,No,0,5,8,5,15.333333333333334,2,0,5,6,5,15.4,0,9.4,-0.8,-3.12,Dropout
+Married,Online,1,9147,Daytime,1,177.0,Pakistani,Graduate,Graduate,Lawyer,Bussinessman,162.3,0,0,0,1,Male,1,18,No,0,5,6,5,16.333333333333332,0,0,5,5,5,15.4,0,15.5,2.8,-4.06,Graduate
+Married,Hybrid,4,9500,Daytime,1,133.0,Pakistani,4,4,4,Navy,130.7,1,0,0,1,Male,0,19,No,0,7,7,7,14.757142857142856,0,0,8,9,8,15.366666666666667,0,12.4,0.5,1.79,Graduate
+Married,18,1,9147,Daytime,1,128.0,Pakistani,Graduate,Graduate,Home wife,5,121.7,1,0,0,1,Male,0,19,No,0,5,8,5,11.0,0,0,5,6,5,15.4,0,12.4,0.5,1.79,Graduate
+Married,In-Person,1,9085,Daytime,3,150.0,Pakistani,Undergraduate,Undergraduate,4,7,173.3,1,0,0,1,Male,0,25,No,1,6,7,6,16.857142857142858,0,1,6,6,6,16.5,0,13.9,-0.3,0.79,Graduate
+Married,Hybrid,1,9500,Daytime,1,150.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,130.3,0,0,0,1,Male,1,19,No,0,8,8,7,15.114285714285714,0,0,8,8,7,15.114285714285714,0,12.7,3.7,-1.7,Graduate
+Married,Online,1,9238,Daytime,1,142.0,Pakistani,Graduate,Graduate,Docter,7,127.7,0,0,0,1,Male,1,20,No,0,6,7,6,15.0,0,0,6,6,6,16.333333333333332,0,13.9,-0.3,0.79,Graduate
+Married,7,1,9003,Daytime,3,130.0,Pakistani,3,Undergraduate,6,Lawyer,130.0,1,0,0,1,Female,0,29,No,1,6,10,6,17.11111111111111,0,2,6,9,6,15.571428571428571,0,13.9,-0.3,0.79,Graduate
+Married,Online,4,9070,Daytime,1,170.0,Pakistani,3,Undergraduate,Engineer,Lawyer,165.8,1,0,0,1,Female,0,18,No,0,6,7,6,14.5,0,0,6,6,6,15.166666666666666,0,9.4,-0.8,-3.12,Graduate
+Married,Online,1,9500,Daytime,1,149.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,139.5,0,0,0,1,Female,1,18,No,0,8,8,8,15.3,0,0,8,8,8,15.3,0,9.4,-0.8,-3.12,Graduate
+Divorced,In-Person,1,9991,Evening,3,130.0,Pakistani,3,Graduate,Teacher,10,160.0,0,0,0,1,Male,0,30,No,0,5,5,5,14.6,0,0,5,5,5,15.4,0,12.7,3.7,-1.7,Dropout
+Married,44,1,9119,Daytime,39,150.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,150.0,1,0,1,1,Female,0,20,No,0,5,6,5,16.5,0,0,5,7,5,17.714285714285715,0,12.4,0.5,1.79,Dropout
+Married,44,1,9119,Daytime,39,160.0,Pakistani,3,Graduate,Engineer,Lawyer,160.0,0,0,1,0,Female,0,24,No,2,6,6,2,16.0,0,2,7,7,2,16.0,0,8.9,1.4,3.51,Dropout
+Married,Hybrid,1,9119,Daytime,1,148.0,Pakistani,Graduate,Graduate,4,5,148.7,0,0,0,1,Female,0,18,No,0,5,6,5,16.2,0,0,5,8,5,16.0,0,8.9,1.4,3.51,Graduate
+Married,Online,1,9500,Daytime,1,141.0,Pakistani,Graduate,Graduate,Lawyer,Lawyer,131.9,1,0,0,1,Male,1,18,No,0,7,7,7,15.101428571428572,0,0,8,8,8,16.09375,0,11.1,0.6,2.02,Graduate
+Married,Online,2,9238,Daytime,1,140.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,140.7,1,0,0,1,Male,1,18,No,0,6,6,6,13.166666666666666,0,0,6,6,6,16.0,0,10.8,1.4,1.74,Graduate
+Married,Hybrid,1,9556,Daytime,1,133.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,124.4,1,0,0,1,Male,1,18,No,0,7,7,7,13.3,0,0,8,8,8,15.125,0,15.5,2.8,-4.06,Graduate
+Married,Hybrid,1,9670,Daytime,1,133.1,Pakistani,Graduate,Graduate,141,114,140.0,1,0,0,1,Male,0,22,No,0,6,6,6,15.166666666666666,0,0,6,6,6,16.0,0,13.9,-0.3,0.79,Graduate
+Married,43,1,9003,Daytime,1,120.0,Pakistani,Graduate,Graduate,4,10,134.4,0,0,0,1,Female,0,24,No,0,6,7,6,15.714285714285714,0,0,6,10,6,15.9,0,15.5,2.8,-4.06,Dropout
+Married,51,1,9085,Daytime,40,120.0,Pakistani,3,Undergraduate,4,Lawyer,125.0,0,0,0,1,Male,0,28,No,0,6,8,6,14.428571428571429,0,0,6,12,4,15.6,0,11.1,0.6,2.02,Enrolled
+Married,18,4,9500,Daytime,1,137.0,Pakistani,3,Graduate,Lawyer,Navy,126.7,1,0,0,1,Male,0,18,No,0,7,8,7,13.6875,0,0,8,9,8,15.622222222222222,0,13.9,-0.3,0.79,Dropout
+Married,7,1,8014,Evening,43,180.0,Pakistani,Graduate,Graduate,Home wife,Navy,180.0,0,0,0,1,Male,0,37,No,12,14,14,14,16.5,0,8,11,11,11,16.90909090909091,0,8.9,1.4,3.51,Graduate
+Married,Online,1,9085,Daytime,1,148.0,Pakistani,Graduate,Graduate,4,Bussinessman,131.6,0,0,0,1,Female,1,18,No,0,6,8,6,15.5,0,0,6,9,4,15.5,0,11.1,0.6,2.02,Dropout
+Married,Online,4,9773,Daytime,1,124.0,Pakistani,3,Undergraduate,Engineer,Bussinessman,137.0,1,0,0,1,Female,0,20,No,0,6,6,6,16.833333333333332,0,0,6,6,6,16.666666666666668,0,8.9,1.4,3.51,Graduate
+Married,Hybrid,5,9773,Daytime,1,111.0,Pakistani,Graduate,Undergraduate,Bussinessman,Lawyer,115.9,1,0,0,1,Male,0,22,No,0,6,7,6,13.571428571428571,0,0,6,7,6,15.285714285714286,0,13.9,-0.3,0.79,Graduate
+Married,7,1,9500,Daytime,3,140.0,Pakistani,Graduate,Graduate,Home wife,5,140.0,0,0,0,1,Male,0,30,No,0,8,8,7,15.675714285714283,0,0,8,8,7,15.675714285714283,0,10.8,1.4,1.74,Graduate
+Divorced,In-Person,1,9238,Daytime,1,126.6,Pakistani,Graduate,Graduate,Home wife,7,107.5,0,0,1,1,Male,1,42,No,0,6,8,6,13.333333333333334,0,0,6,7,6,15.285714285714286,0,11.1,0.6,2.02,Graduate
+Divorced,44,1,8014,Evening,39,160.0,Pakistani,Graduate,Graduate,Home wife,10,155.9,0,0,0,1,Male,0,33,No,3,6,7,6,15.714285714285714,0,2,6,7,6,15.5,0,13.9,-0.3,0.79,Graduate
+Married,Online,2,9500,Daytime,1,138.0,Pakistani,Graduate,Graduate,Docter,5,128.0,1,0,0,1,Male,0,19,No,0,7,7,7,14.20857142857143,0,0,8,9,8,15.127777777777778,0,11.1,0.6,2.02,Graduate
+Married,Online,5,9500,Daytime,1,118.0,Pakistani,3,Graduate,Docter,10,113.5,1,0,0,1,Male,0,20,No,0,7,7,7,14.30714285714286,0,0,8,8,8,15.0125,0,12.4,0.5,1.79,Graduate
+Married,18,1,9085,Daytime,1,153.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,138.0,1,0,0,1,Male,1,21,No,0,6,7,6,13.5,0,0,6,6,3,15.333333333333334,0,8.9,1.4,3.51,Dropout
+Married,Hybrid,4,9500,Daytime,1,133.0,Pakistani,Graduate,Graduate,Lawyer,10,131.1,1,0,0,1,Male,0,18,No,0,7,7,7,13.971428571428572,0,0,8,8,8,15.75,0,13.9,-0.3,0.79,Graduate
+Married,42,1,9500,Daytime,1,168.0,Pakistani,Graduate,Graduate,Home wife,Navy,133.4,1,0,0,1,Male,0,23,No,20,26,27,26,15.07777777777778,0,14,17,17,17,15.023529411764704,0,15.5,2.8,-4.06,Graduate
+Married,Online,1,9853,Daytime,1,131.0,Pakistani,Graduate,Graduate,Lawyer,7,127.9,1,0,0,1,Male,1,18,No,0,7,7,7,14.857142857142858,0,0,7,7,7,15.142857142857142,0,13.9,-0.3,0.79,Graduate
+Married,Online,2,9500,Daytime,1,155.0,Pakistani,Graduate,Graduate,4,Lawyer,140.5,1,0,0,1,Male,0,18,No,0,7,7,6,15.25,0,0,7,7,6,15.25,0,7.6,2.6,0.32,Graduate
+Married,51,1,9500,Daytime,1,129.0,Pakistani,Graduate,Graduate,Lawyer,Lawyer,137.8,1,0,0,1,Male,1,20,No,2,7,7,7,16.13142857142857,0,0,8,9,8,15.52222222222222,0,11.1,0.6,2.02,Graduate
+Married,Online,3,9085,Daytime,1,158.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,153.6,1,0,0,1,Male,1,18,No,0,6,7,6,15.666666666666666,0,0,6,8,6,15.285714285714286,0,8.9,1.4,3.51,Graduate
+Married,53,1,9085,Daytime,42,170.0,Pakistani,Graduate,Graduate,4,7,170.0,0,0,0,1,Male,0,20,No,7,11,13,11,15.692307692307692,0,4,9,9,9,15.555555555555555,0,8.9,1.4,3.51,Graduate
+Divorced,In-Person,1,9991,Evening,1,170.0,Pakistani,Graduate,Graduate,4,8,134.7,0,0,0,1,Male,0,33,No,0,5,5,5,12.8,0,0,5,6,5,15.333333333333334,0,10.8,1.4,1.74,Graduate
+Married,Online,4,9500,Daytime,1,135.0,Pakistani,Graduate,Graduate,Home wife,8,126.3,1,0,0,1,Male,1,19,No,0,7,7,6,15.433333333333332,0,0,7,7,6,15.433333333333332,0,7.6,2.6,0.32,Graduate
+4,In-Person,1,8014,Evening,19,133.1,Pakistani,Graduate,Graduate,Home wife,Bussinessman,113.5,0,0,0,1,Male,1,39,No,0,6,6,6,13.833333333333334,0,0,6,6,6,15.5,0,11.1,0.6,2.02,Graduate
+Married,Hybrid,3,9500,Daytime,1,136.0,Pakistani,Graduate,Graduate,4,5,126.0,1,0,0,1,Male,0,19,No,0,8,8,7,15.11,0,0,8,8,7,15.11,0,10.8,1.4,1.74,Graduate
+Married,Online,1,9500,Daytime,1,153.0,Pakistani,Graduate,Graduate,Home wife,5,138.5,1,0,0,1,Male,1,20,No,0,8,8,7,15.798571428571426,0,0,8,8,7,15.798571428571426,0,10.8,1.4,1.74,Graduate
+Married,Online,3,9500,Daytime,1,119.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,119.4,1,0,0,1,Male,0,20,No,0,7,7,7,13.775714285714288,0,0,8,8,8,15.599999999999998,0,12.4,0.5,1.79,Graduate
+Married,Hybrid,2,9773,Daytime,1,130.0,Pakistani,Undergraduate,Graduate,Engineer,7,126.2,1,0,0,1,Male,0,20,No,0,6,6,6,14.333333333333334,0,0,6,6,6,15.5,0,12.4,0.5,1.79,Graduate
+Married,7,1,9085,Daytime,40,130.0,Pakistani,Graduate,Graduate,4,Navy,130.0,1,0,0,1,Male,0,22,No,0,6,7,6,17.0,0,0,6,7,6,16.285714285714285,0,11.1,0.6,2.02,Graduate
+Married,7,1,9070,Daytime,3,133.1,Pakistani,3,5,Engineer,Lawyer,120.0,1,0,0,1,Male,0,32,No,0,3,3,2,16.0,0,0,3,3,1,16.0,0,7.6,2.6,0.32,Dropout
+Married,Online,1,9238,Daytime,1,150.0,Pakistani,Graduate,Graduate,Docter,Navy,142.7,1,0,0,1,Male,1,18,No,0,6,6,6,14.666666666666666,0,0,6,6,6,15.166666666666666,0,9.4,-0.8,-3.12,Graduate
+Married,Online,2,9500,Daytime,1,140.0,Pakistani,Graduate,Graduate,Docter,6,124.3,1,0,0,1,Male,1,19,No,0,7,9,7,13.3125,0,0,8,8,8,15.6375,0,13.9,-0.3,0.79,Graduate
+Married,Online,1,9238,Daytime,1,168.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,149.5,0,0,0,1,Male,0,18,No,0,6,10,6,17.0,0,0,6,11,6,16.0,0,12.4,0.5,1.79,Graduate
+Married,Hybrid,4,9119,Daytime,1,138.0,Pakistani,Graduate,Undergraduate,Teacher,Navy,127.5,1,0,0,1,Female,0,19,No,0,5,6,5,14.6,0,0,5,5,5,15.2,0,8.9,1.4,3.51,Dropout
+Married,Online,3,9773,Daytime,1,123.0,Pakistani,Graduate,Graduate,4,7,125.1,1,0,1,1,Female,1,18,No,0,6,6,6,14.333333333333334,0,0,6,6,6,15.333333333333334,0,11.1,0.6,2.02,Graduate
+Married,Online,2,9773,Daytime,1,129.0,Pakistani,Graduate,Graduate,Home wife,7,117.1,1,0,0,1,Male,0,20,No,0,6,12,1,17.0,0,0,6,12,1,17.0,0,9.4,-0.8,-3.12,Enrolled
+Married,In-Person,2,8014,Evening,1,141.0,Pakistani,Graduate,Graduate,Home wife,Bussinessman,150.5,0,0,0,1,Male,0,29,No,0,6,7,6,13.166666666666666,0,0,6,8,6,15.625,0,12.4,0.5,1.79,Graduate
